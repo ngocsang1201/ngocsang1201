@@ -1,16 +1,13 @@
-### Hi there 👋
+![](https://user-images.githubusercontent.com/39142850/67110554-fdea5400-f20d-11e9-834a-d459a612b7b1.gif)
 
-<!--
-**ngocsang1201/ngocsang1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Nguyen Ngoc Sang
 
-Here are some ideas to get you started:
+I am student at HCMC University of Technology and Education.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My projects
+  - [Flappy Bird](https://flappy-bird-12.glitch.me/)
+  - [Blog App](https://blog-app-nns.vercel.app)
+
+## My repositories
+  - [Smart Calendar](https://github.com/ngocsang1201/smart-calendar)
+  - [JSON Server](https://github.com/ngocsang1201/json-server)
