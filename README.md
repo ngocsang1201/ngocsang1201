@@ -14,3 +14,4 @@ I am student at HCMC University of Technology and Education.
 ## Projects for learning
   - [Tic Tac Toe](https://ngocsang1201.github.io/js-tic-tac-toe/)
   - [Color Matching](https://ngocsang1201.github.io/color-matching-game/)
+  - [React - ReduxSaga - Typescript](https://github.com/ngocsang1201/redux-saga-typescript/)
