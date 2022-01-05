@@ -1,11 +1,14 @@
-![](https://user-images.githubusercontent.com/39142850/67110554-fdea5400-f20d-11e9-834a-d459a612b7b1.gif)
+![](https://i.ibb.co/m4rkydj/1080x360.jpg)
 
 # Nguyen Ngoc Sang
 
 I am student at HCMC University of Technology and Education.
 
+## Learning Javascript
+  - [Tic Tac Toe](https://ngocsang1201.github.io/js-tic-tac-toe/)
+  - [Color Matching](https://ngocsang1201.github.io/color-matching-game/)
+
 ## My projects
-  - [Flappy Bird](https://flappy-bird-12.glitch.me/)
   - [Blog App](https://blog-app-nns.vercel.app)
 
 ## My repositories
