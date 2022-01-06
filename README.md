@@ -4,8 +4,6 @@
 
 I am a student at HCMC University of Technology and Education.
 
-I am a Reactjs Intern.
-
 ## My projects
   - [Blog App](https://blogapp1.vercel.app)
 
