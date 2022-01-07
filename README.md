@@ -10,6 +10,7 @@ I am a student at HCMC University of Technology and Education.
 ## Projects for learning
   - [Tic Tac Toe](https://github.com/ngocsang1201/tic-tac-toe)
   - [Color Matching](https://github.com/ngocsang1201/color-matching)
+  - [Post UI](https://github.com/ngocsang1201/post-ui)
   - [React - ReduxSaga - Typescript](https://github.com/ngocsang1201/redux-saga-typescript)
 
 ## Others
