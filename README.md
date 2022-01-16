@@ -2,7 +2,7 @@
 
 # Nguyen Ngoc Sang
 
-I am a student at HCMC University of Technology and Education.
+I am studying Computer Engineering Technology at HCMC University of Technology and Education.
 
 ## My projects
   - [Blog App](https://blogapp1.vercel.app)
