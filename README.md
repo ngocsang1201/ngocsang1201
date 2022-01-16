@@ -16,3 +16,4 @@ I am studying at HCMC University of Technology and Education.
 ## Others
   - [Smart Calendar](https://github.com/ngocsang1201/smart-calendar)
   - [JSON Server](https://github.com/ngocsang1201/json-server)
+  - [Flappy Bird](https://github.com/ngocsang1201/flappy-bird)
