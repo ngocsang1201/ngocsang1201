@@ -2,8 +2,7 @@
 
 # Nguyen Ngoc Sang
 
-I am studying at HCMC University of Technology and Education.  
-I want to be a web developer
+I am studying at HCMC University of Technology and Education.
 
 ## My products
   - [Blog App](https://blogapp1.vercel.app)
