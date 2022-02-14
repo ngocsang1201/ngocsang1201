@@ -14,6 +14,6 @@ I am studying at HCMC University of Technology and Education.
   - [React - ReduxSaga - Typescript](https://github.com/ngocsang1201/redux-saga-typescript)
 
 ## Others
-  - [Smart Calendar](https://github.com/ngocsang1201/smart-calendar)
+  - [Smart Calendar](https://github.com/ngocsang1201/smart-calendar) (Android app)
   - [JSON Server](https://github.com/ngocsang1201/json-server)
   - [Flappy Bird](https://github.com/ngocsang1201/flappy-bird)
