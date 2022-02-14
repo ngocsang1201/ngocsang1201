@@ -4,8 +4,8 @@
 
 I am studying at HCMC University of Technology and Education.
 
-## My projects
-  - [Blog App](https://blogapp-nns.vercel.app)
+## My products
+  - [Blog App](https://blogapp1.vercel.app)
 
 ## Projects for learning
   - [Tic Tac Toe](https://github.com/ngocsang1201/tic-tac-toe)
