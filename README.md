@@ -3,7 +3,7 @@
 
 ![](https://i.ibb.co/m4rkydj/1080x360.jpg)
 
-## About me 🧑🏼‍💻
+## About 🧑🏼‍💻
 
 - 🎓 I am currently studying at **HCMC University of Technology and Education**.
 
