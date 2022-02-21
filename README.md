@@ -12,28 +12,28 @@
 
 ✨ I love to create different types of **contents**.
 
-## Technologies⚙️
+## Technologies ⚙️
 
-### Languages✍🏼
+### Languages ✍🏼
 
 <img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/35/000000/css3.png"/> <img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/35/000000/typescript--v1.png"/>
 
-### Tools⚒️
+### Tools ⚒️
 
 <img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/35/000000/git.png"/> <img src="https://img.icons8.com/color/35/000000/github.png"/>
 
-## Projects 🎖️
+## Projects 📑
 
-### My products
+## 
   - [Blog App](https://blogapp1.vercel.app)
 
-### For learning 
+### For learning 💻
   - [Tic Tac Toe](https://github.com/ngocsang1201/tic-tac-toe)
   - [Color Matching](https://github.com/ngocsang1201/color-matching)
   - [Post UI](https://github.com/ngocsang1201/post-ui)
-  - [React - ReduxSaga - Typescript](https://github.com/ngocsang1201/redux-saga-typescript)
+  - [React - Saga - Typescript](https://github.com/ngocsang1201/redux-saga-typescript)
 
-### Others
+### Others 📝
   - [Smart Calendar](https://github.com/ngocsang1201/smart-calendar) (Android app)
   - [JSON Server](https://github.com/ngocsang1201/json-server)
   - [Flappy Bird](https://github.com/ngocsang1201/flappy-bird)
