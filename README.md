@@ -1,10 +1,9 @@
-![](https://i.ibb.co/m4rkydj/1080x360.jpg)
 
 # Hi, I'm Sangg <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-## About me 🧑🏼‍💻
+![](https://i.ibb.co/m4rkydj/1080x360.jpg)
 
-<img align="right" width="300" height="200" style="object-fit: cover" src="https://i.ibb.co/m4rkydj/1080x360.jpg">
+## About me 🧑🏼‍💻
 
 - 🎓 I am currently studying at **HCMC University of Technology and Education**.
 
