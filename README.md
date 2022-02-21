@@ -4,13 +4,15 @@
 
 ## About me 🧑🏼‍💻
 
-🎓 I am currently studying at **HCMC University of Technology and Education**.
+<img align="right" width="300" height="200" style="object-fit: cover" src="https://i.ibb.co/m4rkydj/1080x360.jpg">
 
-🌱 I have a passion of **Web Development** and also interested in **Design**.
+- 🎓 I am currently studying at **HCMC University of Technology and Education**.
 
-🎯 My Goal is to become a **Web developer**.
+- 🌱 I have a passion of **Web Development** and also interested in **Design**.
 
-✨ I love to create different types of **contents**.
+- 🎯 My Goal is to become a **Web developer**.
+
+- ✨ I love to create different types of **contents**.
 
 ## Technologies ⚙️
 
