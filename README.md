@@ -3,13 +3,13 @@
 
 ![](https://i.ibb.co/m4rkydj/1080x360.jpg)
 
-## About 🧑🏼‍💻
+## About 🧑🏼
 
 - 🎓 I am currently studying at **HCMC University of Technology and Education**.
 
 - 🌱 I have a passion of **Web Development** and also interested in **Design**.
 
-- 🎯 My Goal is to become a **Web developer**.
+- 🎯 My goal is to become a **Web developer**.
 
 - ✨ I love to create different types of **contents**.
 
