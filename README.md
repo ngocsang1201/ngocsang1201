@@ -23,10 +23,10 @@
 
 <img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/35/000000/git.png"/> <img src="https://img.icons8.com/color/35/000000/github.png"/>
 
-## Projects 🎉
+## Repositories 🏅
 
-### Mine 🏅
-  - [Blog App](https://blogapp1.vercel.app)
+### Projects 🎉
+  - [1social](https://1social.vercel.app)
 
 ### For learning 📑
   - [Tic Tac Toe](https://github.com/ngocsang1201/tic-tac-toe)
