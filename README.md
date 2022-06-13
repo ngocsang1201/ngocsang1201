@@ -1,5 +1,5 @@
 
-# Hi, I'm Sangg <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi, I'm Sangg <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="28px" height="28px">
 
 ![](https://i.ibb.co/m4rkydj/1080x360.jpg)
 
