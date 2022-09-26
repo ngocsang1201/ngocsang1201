@@ -28,12 +28,6 @@
 ### Projects 🎉
   - [1social](https://1social.vercel.app)
 
-### For learning 📑
-  - [Tic Tac Toe](https://github.com/ngocsang1201/tic-tac-toe)
-  - [Color Matching](https://github.com/ngocsang1201/color-matching)
-  - [Post UI](https://github.com/ngocsang1201/post-ui)
-  - [React - Saga - Typescript](https://github.com/ngocsang1201/redux-saga-typescript)
-
 ### Others 📝
   - [Smart Calendar](https://github.com/ngocsang1201/smart-calendar) (Android app)
   - [JSON Server](https://github.com/ngocsang1201/json-server)
